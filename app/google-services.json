@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718595286390",
+    "firebase_url": "https://book-apps-a800c-default-rtdb.firebaseio.com",
+    "project_id": "book-apps-a800c",
+    "storage_bucket": "book-apps-a800c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718595286390:android:e84781113cb6bf7be28657",
+        "android_client_info": {
+          "package_name": "com.badista.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718595286390-p6cc6qf72h80mqi4oh2ppuils331g3st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPiqeUXUU5UOS7Wwz4dOS4Qy1q0SviboA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718595286390-p6cc6qf72h80mqi4oh2ppuils331g3st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
